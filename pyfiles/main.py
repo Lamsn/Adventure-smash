@@ -1,12 +1,6 @@
 """
 Fichier : 'main.py'
 Contenu : Boucle principale du jeu
-Auteurs du jeu :
-    - Evan Le Bigot (chef de projet)
-    - Noé Lacaille
-    - Jean-Marc Wu
-    - Louis Courtoux
-    - Kevin Nge
 """
 
 game_name='Adventure Smash'
