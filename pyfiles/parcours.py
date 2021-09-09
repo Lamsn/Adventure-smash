@@ -1,7 +1,7 @@
 """
 Fihcier : 'parcours.py'
 Contenu : Code du Parcours 
-Auteur : Evan Le Bigot
+Auteur : lamsen
 """
 
 import pygame
