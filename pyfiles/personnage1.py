@@ -1,6 +1,6 @@
 """
 Fichier : 'personnage1.py'
-Contenu : Stats du personnnage 1
+Contenu : Stats du personnage 1
 Auteur : lamsen
 """
 
