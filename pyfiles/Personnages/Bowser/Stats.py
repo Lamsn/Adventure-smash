@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-
-
-
+Paramètre des personnages
+Auteur de tous les fichiers : lamsen
 """
 import pygame,os.path
 Personnage="Bowser"
