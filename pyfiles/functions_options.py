@@ -1,7 +1,7 @@
 """
 Fichier : "functions_options.py"
 Contenu : Fonctions du menu Options
-Auteur : Noé Lacaille
+Auteur : unearobase
 """
 
 import pygame
