@@ -1,7 +1,7 @@
 """
 Fichier : 'm_options.py'
 Contenu : Menu des options
-Auteur : Noé Lacaille
+Auteur : unearobase
 """
 
 import pygame
