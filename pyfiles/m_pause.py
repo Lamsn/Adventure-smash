@@ -1,7 +1,7 @@
 """
 Fichier : 'm_pause.py'
 Contenu : Menu pause
-Auteur : Noé Lacaille
+Auteur : unearobase
 """
 
 import pygame
