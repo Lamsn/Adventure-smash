@@ -1,7 +1,7 @@
 """
 Fichier : 'functions.py'
 Contenu : Fonctions référence
-Auteur : Noé Lacaille
+Auteur : unearobase
 """
 
 import pygame, variables as v, random
