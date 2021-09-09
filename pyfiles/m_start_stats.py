@@ -1,7 +1,7 @@
 """
 Fichier : 'm_start_stats.py'
 Contenu : Rappel des données avant le début du jeu
-Auteur : Noé Lacaille
+Auteur : unearobase
 """
 
 import pygame
