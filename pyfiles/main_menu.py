@@ -1,7 +1,7 @@
 """
 Fichier : 'main_menu.py'
 Contenu : Menu principal du jeu
-Auteur : Noé Lacaille
+Auteur : unearobase
 """
 
 import pygame
