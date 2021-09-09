@@ -1,7 +1,7 @@
 """
 Fichier : 'm_smash_target.py'
 Contenu : Menus choix persos et maps du bonus Targets
-Auteur : Noé Lacaille
+Auteur : unearobase
 """
 
 import pygame
