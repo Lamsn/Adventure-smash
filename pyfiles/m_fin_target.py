@@ -1,7 +1,7 @@
 """
 Fichier : 'm_ecran_fin.py'
 Contenu : Menu fin du jeu
-Auteur : Noé Lacaille
+Auteur : unearobase
 """
 
 import pygame
