@@ -1,7 +1,7 @@
 """
 Fihcier : 'inGame.py'
 Contenu : Code du combat 
-Auteur : Evan Le Bigot
+Auteur : lamsen
 """
 
 import pygame,random
