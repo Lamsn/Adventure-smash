@@ -1,7 +1,7 @@
 """
 Fichier : "functions_smash.py"
 Contenu : Fonctions du menu Smash
-Auteur : Noé Lacaille
+Auteur : unearobase
 """
 
 import pygame
