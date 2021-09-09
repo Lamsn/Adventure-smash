@@ -1,6 +1,10 @@
 """
 Fichier : 'main.py'
 Contenu : Boucle principale du jeu
+Auteurs :
+    - lamsen
+    - unearobase
+    - 3 autres collaborateurs
 """
 
 game_name='Adventure Smash'
