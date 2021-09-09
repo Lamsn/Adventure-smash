@@ -1,7 +1,7 @@
 """
 Fichier : 'm_smash.py'
 Contenu : Menus choix nbpersos, persos et maps
-Auteur : Noé Lacaille
+Auteur : unearobase
 """
 
 import pygame
