@@ -1,7 +1,7 @@
 """
 Fichier : 'variables.py'
 Contenu : Variables globales du jeu
-Auteurs : Noé Lacaille / Evan Le Bigot
+Auteurs : unearobase / lamsen
 """
 
 import pygame
