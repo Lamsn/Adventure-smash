@@ -3,9 +3,9 @@
 
 ########################
 
-Nouvelle version : v2.0.0
-Auteur : Toute l'équipe
+New version : v2.0.0
+Authors : the whole team
 
 ########################
 
-Première version publique du jeu.
+First public version of the game
