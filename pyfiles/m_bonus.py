@@ -1,7 +1,7 @@
 """
 Fichier : 'm_bonus.py'
 Contenu : Bonus
-Auteur : Noé Lacaille
+Auteur : unearobase
 """
 
 import pygame
