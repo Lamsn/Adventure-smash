@@ -1,7 +1,7 @@
 """
 Fichier : 'personnage3.py'
-Contenu : Stats du personnnage 3
-Auteur : Evan Le Bigot
+Contenu : Stats du personnage 3
+Auteur : lamsen
 """
 
 import pygame
